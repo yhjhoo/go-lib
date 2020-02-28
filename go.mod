@@ -1,3 +1,3 @@
-module go-lib
+module github.com/yhjhoo/go-lib
 
 go 1.13
